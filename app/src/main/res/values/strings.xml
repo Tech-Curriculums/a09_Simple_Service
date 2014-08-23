@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">a09_Simple_Service</string>
+    <string name="text_view_1">Text View 1</string>
+    <string name="text_view_2">Text View 2</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
